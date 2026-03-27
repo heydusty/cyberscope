@@ -188,9 +188,9 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 **Dusty (Akshat Singh Mehrotra)**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+
 - Email: dusty@dustyhive.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+  
 
 > *"Built by DUSTY — if you found this useful, drop a ⭐"*
 
